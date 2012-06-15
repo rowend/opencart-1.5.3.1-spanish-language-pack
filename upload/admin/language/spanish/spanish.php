@@ -9,23 +9,23 @@ $_['decimal_point']           = '.';
 $_['thousand_point']          = ',';
 
 // Text
-$_['text_yes']                = 'Yes';
+$_['text_yes']                = 'Si';
 $_['text_no']                 = 'No';
-$_['text_enabled']            = 'Enabled';
-$_['text_disabled']           = 'Disabled';
-$_['text_none']               = ' --- None --- ';
-$_['text_select']             = ' --- Please Select --- ';
-$_['text_select_all']         = 'Select All';
-$_['text_unselect_all']       = 'Unselect All';
-$_['text_all_zones']          = 'All Zones';
+$_['text_enabled']            = 'Activo';
+$_['text_disabled']           = 'Inactivo';
+$_['text_none']               = ' --- Nada --- ';
+$_['text_select']             = ' --- Por favor Selecciona --- ';
+$_['text_select_all']         = 'Seleccionar Todo';
+$_['text_unselect_all']       = 'Deseleccionar Todo';
+$_['text_all_zones']          = 'Todas las Zonas';
 $_['text_default']            = ' <b>(Default)</b>';
-$_['text_close']              = 'Close';
-$_['text_pagination']         = 'Showing {start} to {end} of {total} ({pages} Pages)';
+$_['text_close']              = 'Cerrar';
+$_['text_pagination']         = 'Mostrando de {start} a {end} de {total} ({pages} Páginas)';
 $_['text_no_results']         = 'No results!';
 $_['text_separator']          = ' &gt; ';
-$_['text_edit']               = 'Edit';
-$_['text_view']               = 'View';
-$_['text_home']               = 'Home';
+$_['text_edit']               = 'Editar';
+$_['text_view']               = 'Ver';
+$_['text_home']               = 'Inicio';
 
 // Button
 $_['button_insert']           = 'Insert';
