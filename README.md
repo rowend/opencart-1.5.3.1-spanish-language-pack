@@ -18,7 +18,7 @@ This is a Opencart spanish language pack for 1.5.3.1 version and it is **free**!
     2. Go to Opencart administration Panel
     3. Go to System -> localization -> languages
     3. Create one with the next features
-        **Language Name:** Español
+        __Language Name:__ Español
         **Code:** es
         **Locale:** es_ES.UTF-8,es_ES
         **Image:** es.png
