@@ -9,13 +9,13 @@ $_['decimal_point']         = '.';
 $_['thousand_point']        = ',';
 
 // Text
-$_['text_home']             = 'Home';
-$_['text_yes']              = 'Yes';
+$_['text_home']             = 'Inicio';
+$_['text_yes']              = 'Si';
 $_['text_no']               = 'No';
-$_['text_none']             = ' --- None --- ';
-$_['text_select']           = ' --- Please Select --- ';
-$_['text_all_zones']        = 'All Zones';
-$_['text_pagination']       = 'Showing {start} to {end} of {total} ({pages} Pages)';
+$_['text_none']             = ' --- Nada --- ';
+$_['text_select']           = ' --- Por favor Selecciona--- ';
+$_['text_all_zones']        = 'Todas las Zonas';
+$_['text_pagination']       = 'Mostrando de {start} a {end} de {total} ({pages} Páginas)';
 $_['text_separator']        = ' &raquo; ';
 
 // Buttons
