@@ -18,6 +18,6 @@ $_['entry_sort_order']      = 'Orden de aparición:';
 
 // Error
 $_['error_permission']      = 'Cuidado: No tienes permisos para modificar atributos!';
-$_['error_name']            = 'El nombre del atributo debe tener entre 3 6 64 carácteres!';
+$_['error_name']            = 'El nombre del atributo debe tener entre 3 y 64 carácteres!';
 $_['error_product']         = 'Cuidado: Este atributo no se puede borrar ya que está actualmente asignado a %s productos!';
 ?>
