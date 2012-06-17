@@ -15,7 +15,7 @@ $_['column_action']     = 'Acción';
 $_['entry_title']       = 'Título de la Información:';
 $_['entry_description'] = 'Descripción:';
 $_['entry_store']       = 'Tiendas:';
-$_['entry_keyword']     = 'Palabras clave SEO:<br /><span class="help">No usar espacios en su lugar usar - y estar seguro que son globalmente únicas.</span>';
+$_['entry_keyword']     = 'Palabras clave SEO:<br /><span class="help">No usar espacios en su lugar usar - y estar seguro que son globalmente única.</span>';
 $_['entry_bottom']      = 'Fondo:<br/><span class="help">Mostrar en el pie inferior de la página.</span>';
 $_['entry_status']      = 'Estatus:';
 $_['entry_sort_order']  = 'Orden de Aparición:';
