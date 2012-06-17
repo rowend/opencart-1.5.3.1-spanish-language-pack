@@ -24,7 +24,7 @@ $_['error_name']       = 'El nombre debe tener entre 3 y 64 carácteres!';
 $_['error_upload']     = 'Archivo requerido!';
 $_['error_filename']   = 'El nombre del archivo debe estar entre 3 y 128 carácteres!';
 $_['error_exists']     = 'El archivo no existe!';
-$_['error_mask']       = 'L mascara debe tener entre 3 y 128 carácteres!';
+$_['error_mask']       = 'La mascara debe tener entre 3 y 128 carácteres!';
 $_['error_filetype']   = 'Tipo de archivo invalido!';
 $_['error_product']    = 'Cuidado: Esta descarga  no puede ser borrada ya que está actualemte asiganda a %s productos!';
 ?>
