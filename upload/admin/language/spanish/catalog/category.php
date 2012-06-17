@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']          = 'Category';
+$_['heading_title']          = 'Categoría';
 
 // Text
-$_['text_success']           = 'Success: You have modified categories!';
-$_['text_default']           = 'Default';
-$_['text_image_manager']     = 'Image Manager';
-$_['text_browse']            = 'Browse Files';
-$_['text_clear']             = 'Clear Image';
+$_['text_success']           = 'Éxito: has modificado las categorías!';
+$_['text_default']           = 'Por defecto';
+$_['text_image_manager']     = 'Gestor de imágenes';
+$_['text_browse']            = 'Examinar Archivos';
+$_['text_clear']             = 'Borrar Imágen';
 
 // Column
-$_['column_name']            = 'Category Name';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Nombre de la Categoría';
+$_['column_sort_order']      = 'Orden de Aparición';
+$_['column_action']          = 'Acción';
 
 // Entry
-$_['entry_name']             = 'Category Name:';
-$_['entry_meta_keyword'] 	 = 'Meta Tag Keywords:';
-$_['entry_meta_description'] = 'Meta Tag Description:';
-$_['entry_description']      = 'Description:';
-$_['entry_parent']           = 'Parent Category:';
-$_['entry_store']            = 'Stores:';
-$_['entry_keyword']          = 'SEO Keyword:<br /><span class="help">Do not use spaces instead replace spaces with - and make sure the keyword is globally unique.</span>';
-$_['entry_image']            = 'Image:';
-$_['entry_top']              = 'Top:<br/><span class="help">Display in the top menu bar. Only works for the top parent categories.</span>';
-$_['entry_column']           = 'Columns:<br/><span class="help">Number of columns to use for the bottom 3 categories. Only works for the top parent categories.</span>';
-$_['entry_sort_order']       = 'Sort Order:';
-$_['entry_status']           = 'Status:';
-$_['entry_layout']           = 'Layout Override:';
+$_['entry_name']             = 'Nombre de la Categoría:';
+$_['entry_meta_keyword'] 	 = 'Etiquetas meta palabras clave:';
+$_['entry_meta_description'] = 'Etiqueta meta descripción:';
+$_['entry_description']      = 'Descripción:';
+$_['entry_parent']           = 'Categoría Superior:';
+$_['entry_store']            = 'Tiendas:';
+$_['entry_keyword']          = 'Palabras clave SEO:<br /><span class="help">No usar espacios, en su lugar usar - y estar seguro que es globalmente única.</span>';
+$_['entry_image']            = 'Imagen:';
+$_['entry_top']              = 'Arriba:<br/><span class="help">Mostrar en la barra del menú superior. Solo funciona con las categorías superiores.</span>';
+$_['entry_column']           = 'Columnas:<br/><span class="help">Número de columnas a usar para las 3 categorías inferiores. Solamante funciona con las categorías superiores.</span>';
+$_['entry_sort_order']       = 'Orden de Aparición:';
+$_['entry_status']           = 'Estado:';
+$_['entry_layout']           = 'Sobreescribir diseño:';
 
-// Error 
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify categories!';
-$_['error_name']             = 'Category Name must be between 2 and 32 characters!';
+// Error
+$_['error_warning']          = 'Cuidado: Por favor comprueba que el formulario esté libre de errores!';
+$_['error_permission']       = 'Cuidado: No tienes permisos para modificar las categorías!';
+$_['error_name']             = 'El nombre de la categoría debe tener entre 2 y 32 carácteres!';
 ?>
