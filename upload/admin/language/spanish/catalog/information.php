@@ -19,7 +19,7 @@ $_['entry_keyword']     = 'Palabras clave SEO:<br /><span class="help">No usar e
 $_['entry_bottom']      = 'Fondo:<br/><span class="help">Mostrar en el pie inferior de la página.</span>';
 $_['entry_status']      = 'Estatus:';
 $_['entry_sort_order']  = 'Orden de Aparición:';
-$_['entry_layout']      = 'Sobreescribir de diseño:';
+$_['entry_layout']      = 'Sobreescribir el diseño:';
 
 // Error
 $_['error_warning']     = 'Cuidado: Por favor comprueba que el formulario esté libre de errores!';
