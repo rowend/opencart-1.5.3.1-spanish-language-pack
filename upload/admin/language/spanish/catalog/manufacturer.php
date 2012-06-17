@@ -19,7 +19,7 @@ $_['column_action']      = 'Acción';
 // Entry
 $_['entry_name']         = 'Nombre del fabricante:';
 $_['entry_store']        = 'Tiendas:';
-$_['entry_keyword']      = 'Palabra clave SEO:<br /><span class="help">No usar espacios, utilizar - y estar seguro que globalmente es única.</span>';
+$_['entry_keyword']      = 'Palabras clave SEO:<br /><span class="help">No usar espacios, utilizar - y estar seguro que globalmente es única.</span>';
 $_['entry_image']        = 'Imagen:';
 $_['entry_sort_order']   = 'Orden de aparición:';
 $_['entry_type']         = 'Tipo:';
