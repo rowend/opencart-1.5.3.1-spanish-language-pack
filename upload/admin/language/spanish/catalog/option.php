@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']       = 'Options';
+$_['heading_title']       = 'Opciones';
 
 // Text
-$_['text_success']        = 'Success: You have modified options!';
-$_['text_choose']         = 'Choose';
-$_['text_select']         = 'Select';
+$_['text_success']        = 'Éxito: has modificado las opciones!';
+$_['text_choose']         = 'Selecciona';
+$_['text_select']         = 'Selecciona';
 $_['text_radio']          = 'Radio';
 $_['text_checkbox']       = 'Checkbox';
-$_['text_image']          = 'Image';
-$_['text_input']          = 'Input';
-$_['text_text']           = 'Text';
-$_['text_textarea']       = 'Textarea';
-$_['text_file']           = 'File';
-$_['text_date']           = 'Date';
-$_['text_datetime']       = 'Date &amp; Time';
-$_['text_time']           = 'Time';
-$_['text_image_manager']  = 'Image Manager';
-$_['text_browse']         = 'Browse Files';
-$_['text_clear']          = 'Clear Image';
+$_['text_image']          = 'Imagen';
+$_['text_input']          = 'Ingresar';
+$_['text_text']           = 'Texto';
+$_['text_textarea']       = 'Area de Texto';
+$_['text_file']           = 'Archivo';
+$_['text_date']           = 'Fecha';
+$_['text_datetime']       = 'Fecha &amp; Hora';
+$_['text_time']           = 'Hora';
+$_['text_image_manager']  = 'Gestor de Imágenes';
+$_['text_browse']         = 'Examinar Archivos';
+$_['text_clear']          = 'Eliminar Imágen';
 
 // Column
 $_['column_name']         = 'Option Name';
@@ -26,16 +26,16 @@ $_['column_sort_order']   = 'Sort Order';
 $_['column_action']       = 'Action';
 
 // Entry
-$_['entry_name']         = 'Option Name:';
-$_['entry_type']         = 'Type:';
-$_['entry_value']        = 'Option Value Name:';
-$_['entry_image']        = 'Image:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_name']         = 'Nombre de la opción:';
+$_['entry_type']         = 'Tipo:';
+$_['entry_value']        = 'Nombre del valor de la Opción:';
+$_['entry_image']        = 'Imagen:';
+$_['entry_sort_order']   = 'Orden de aparición:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify options!';
-$_['error_name']         = 'Option Name must be between 1 and 128 characters!';
-$_['error_type']         = 'Warning: Option Values required!';
-$_['error_option_value'] = 'Option Value Name must be between 1 and 128 characters!';
-$_['error_product']      = 'Warning: This option cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']   = 'Cuidado: No tienes permisos para modificar las opciones!';
+$_['error_name']         = 'El nombre de la opción debe tener entre 3 y 128 carácteres!';
+$_['error_type']         = 'Cuidado: valores de la opción obligatorio!';
+$_['error_option_value'] = 'El nombre del valor de la opción debe tener entre 3 y 128 carácteres!';
+$_['error_product']      = 'Cuidado: Esta opción no se puede borrar ya que está actualmente asignada a %s productos!';
 ?>
