@@ -1,44 +1,44 @@
 <?php
 // Heading
-$_['heading_title']                 = 'Dashboard';
+$_['heading_title']                 = 'Panel de control';
 
 // Text
-$_['text_overview']                 = 'Overview';
-$_['text_statistics']               = 'Statistics';
-$_['text_latest_10_orders']         = 'Latest 10 Orders';
-$_['text_total_sale']               = 'Total Sales:';
-$_['text_total_sale_year']          = 'Total Sales This Year:';
-$_['text_total_order']              = 'Total Orders:';
-$_['text_total_customer']           = 'No. of Customers:';
-$_['text_total_customer_approval']  = 'Customers Awaiting Approval:';
-$_['text_total_review_approval']    = 'Reviews Awaiting Approval:';
-$_['text_total_affiliate']          = 'No. of Affiliates:';
-$_['text_total_affiliate_approval'] = 'Affiliates Awaiting Approval:';
-$_['text_day']                      = 'Today';
-$_['text_week']                     = 'This Week';
-$_['text_month']                    = 'This Month';
-$_['text_year']                     = 'This Year';
-$_['text_order']                    = 'Total Orders';
-$_['text_customer']                 = 'Total Customers';
+$_['text_overview']                 = 'Resumen';
+$_['text_statistics']               = 'Estadísticas';
+$_['text_latest_10_orders']         = 'Los últimos 10 pedidos';
+$_['text_total_sale']               = 'Total de ventas:';
+$_['text_total_sale_year']          = 'Total ventas en este año:';
+$_['text_total_order']              = 'Total de pedidos:';
+$_['text_total_customer']           = 'No. de clientes:';
+$_['text_total_customer_approval']  = 'Clientes esperando aprobación:';
+$_['text_total_review_approval']    = 'Valoraciones esperando aprobación:';
+$_['text_total_affiliate']          = 'No. de Afiliados:';
+$_['text_total_affiliate_approval'] = 'Afiliados esperando aprobación:';
+$_['text_day']                      = 'Hoy';
+$_['text_week']                     = 'Esta semana';
+$_['text_month']                    = 'Este mes';
+$_['text_year']                     = 'Este año';
+$_['text_order']                    = 'Total de pedidos';
+$_['text_customer']                 = 'Total de clientes';
 
-// Column 
-$_['column_order']                  = 'Order ID';
-$_['column_customer']               = 'Customer';
-$_['column_status']                 = 'Status';
-$_['column_date_added']             = 'Date Added';
+// Column
+$_['column_order']                  = 'ID del pedido';
+$_['column_customer']               = 'Cliente';
+$_['column_status']                 = 'Estatus';
+$_['column_date_added']             = 'Fecha de alta';
 $_['column_total']                  = 'Total';
-$_['column_firstname']              = 'First Name';
-$_['column_lastname']               = 'Last Name';
-$_['column_action']                 = 'Action';
+$_['column_firstname']              = 'Nombre';
+$_['column_lastname']               = 'Apellido/s';
+$_['column_action']                 = 'Acción';
 
 // Entry
-$_['entry_range']                   = 'Select Range:';
+$_['entry_range']                   = 'Selecciona rango:';
 
 // Error
-$_['error_install']                 = 'Warning: Install folder still exists and should be deleted for security reasons!';
-$_['error_image']                   = 'Warning: Image directory %s not writeable!';
-$_['error_image_cache']             = 'Warning: Image cache directory %s not writeable!';
-$_['error_cache']                   = 'Warning: Cache directory %s not writeable!';
-$_['error_download']                = 'Warning: Download directory %s not writeable!';
-$_['error_logs']                    = 'Warning: Log directory %s not writeable!';
+$_['error_install']                 = 'Cuidado: El directorio de instalación todavía existe y debe ser borrado!';
+$_['error_image']                   = 'Cuidado: El directorio de imágenes %s no tiene permisos de escritura!';
+$_['error_image_cache']             = 'Cuidado: El directorio de imágenes en cache %s no tiene permisos de escritura!';
+$_['error_cache']                   = 'Cuidado: El directorio de cache %s no tiene permisos de escritura!';
+$_['error_download']                = 'Cuidado: El directorio de descargas %s no tiene permisos de escritura!';
+$_['error_logs']                    = 'Cuidado: El directorio de logs %s no tiene permisos de escritura!';
 ?>
