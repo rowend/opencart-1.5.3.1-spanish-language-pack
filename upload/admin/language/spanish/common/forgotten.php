@@ -1,20 +1,20 @@
 <?php
 // header
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = '¿Has olvidado tu contraseña?';
 
 // Text
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_success']    = 'An email with a confirmation link has been sent your admin email address.';
+$_['text_forgotten']  = 'Contraseña olvidada';
+$_['text_your_email'] = 'Tu dirección e-mail';
+$_['text_email']      = 'Introduce la dirección de e-mail asociada con tu cuenta. Haz click en enviar para resetear tu contraseña y recibir el enlace en tu correo.';
+$_['text_success']    = 'Un email con un enlace de confirmación ha sido enviado a tu correo de administrador.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address:';
-$_['entry_password']  = 'New Password:';
-$_['entry_confirm']   = 'Confirm:';
+$_['entry_email']     = 'Dirección e-mail:';
+$_['entry_password']  = 'Nueva contraseña:';
+$_['entry_confirm']   = 'Confirmar:';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_password']  = 'Password must be between 3 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+$_['error_email']     = 'Cuidado: La dirección de email no fue encontrada en nuestra base de datos, por favor inténtalo de nuevo!';
+$_['error_password']  = 'La contraseña debe tener entre 3 y 20 carácteres!';
+$_['error_confirm']   = 'La contraseña y la confirmación de contraseña no coinciden!';
 ?>
