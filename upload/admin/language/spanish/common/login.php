@@ -1,20 +1,20 @@
 <?php
 // header
-$_['heading_title']  = 'Administration';
+$_['heading_title']  = 'Administrador';
 
 // Text
-$_['text_heading']   = 'Administration';
-$_['text_login']     = 'Please enter your login details.';
-$_['text_forgotten'] = 'Forgotten Password';
+$_['text_heading']   = 'Administrador';
+$_['text_login']     = 'Por favor introduce los detalles de tu cuenta.';
+$_['text_forgotten'] = 'FContraseña olvidada';
 
 // Entry
-$_['entry_username'] = 'Username:';
-$_['entry_password'] = 'Password:';
+$_['entry_username'] = 'Usuario:';
+$_['entry_password'] = 'Contraseña:';
 
 // Button
-$_['button_login']   = 'Login';
+$_['button_login']   = 'Inicio de sesión';
 
 // Error
-$_['error_login']    = 'No match for Username and/or Password.';
-$_['error_token']    = 'Invalid token session. Please login again.';
+$_['error_login']    = 'No se ha encontrado el usuario y/o contraseña.';
+$_['error_token']    = 'Token de sesión inválido. Por favor inicia sesión de nuevo.';
 ?>
