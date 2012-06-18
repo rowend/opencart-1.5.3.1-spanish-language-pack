@@ -5,7 +5,7 @@ $_['heading_title']  = 'Administrador';
 // Text
 $_['text_heading']   = 'Administrador';
 $_['text_login']     = 'Por favor introduce los detalles de tu cuenta.';
-$_['text_forgotten'] = 'FContraseña olvidada';
+$_['text_forgotten'] = 'Contraseña olvidada';
 
 // Entry
 $_['entry_username'] = 'Usuario:';
