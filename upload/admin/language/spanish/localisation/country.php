@@ -3,7 +3,7 @@
 $_['heading_title']           = 'País';
 
 // Text
-$_['text_success']            = 'Éxito: has modificado paises!';
+$_['text_success']            = 'Éxito: has modificado los paises!';
 
 // Column
 $_['column_name']             = 'Nombre del país';
@@ -14,7 +14,7 @@ $_['column_action']           = 'Acción';
 // Entry
 $_['entry_name']              = 'Nombre del país:';
 $_['entry_iso_code_2']        = 'ódigo ISO (2):';
-$_['entry_iso_code_3']        = 'Código ISO (3)::';
+$_['entry_iso_code_3']        = 'Código ISO (3):';
 $_['entry_address_format']    = 'Formato de dirección:<br /><span class="help">
 Nombre = {firstname}<br />
 Apellido(s) = {lastname}<br />
