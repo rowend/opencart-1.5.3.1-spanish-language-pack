@@ -13,7 +13,7 @@ $_['column_action']    = 'Acción';
 
 // Entry
 $_['entry_title']      = 'Nombre de la medida:';
-$_['entry_unit']       = 'Unidad de medida:';
+$_['entry_unit']       = 'Unidad de la medida:';
 $_['entry_value']      = 'Valor:<br /><span class="help">Configurar a  1.00000 si es la medida por defecto.</span>';
 
 // Error
