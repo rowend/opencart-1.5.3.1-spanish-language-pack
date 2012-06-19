@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']          = 'Zones';
+$_['heading_title']          = 'Zonas';
 
 // Text
-$_['text_success']           = 'Success: You have modified zones!';
+$_['text_success']           = 'Éxito: has modificado las zonas!';
 
 // Column
-$_['column_name']            = 'Zone Name';
-$_['column_code']            = 'Zone Code';
-$_['column_country']         = 'Country';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Nombre de la zona';
+$_['column_code']            = 'Código de la zona';
+$_['column_country']         = 'País';
+$_['column_action']          = 'Acción';
 
 // Entry
-$_['entry_status']           = 'Zone Status:';
-$_['entry_name']             = 'Zone Name:';
-$_['entry_code']             = 'Zone Code:';
-$_['entry_country']          = 'Country:';
+$_['entry_status']           = 'Estado de la Zona:';
+$_['entry_name']             = 'Nombre de la zona:';
+$_['entry_code']             = 'Código de la zona:';
+$_['entry_country']          = 'País:';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to modify zones!';
-$_['error_name']             = 'Zone Name must be between 3 and 128 characters!';
-$_['error_default']          = 'Warning: This zone cannot be deleted as it is currently assigned as the default store zone!';
-$_['error_store']            = 'Warning: This zone cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']          = 'Warning: This zone cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_affiliate']        = 'Warning: This zone cannot be deleted as it is currently assigned to %s affiliates!';
-$_['error_zone_to_geo_zone'] = 'Warning: This zone cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_permission']       = 'Cuidado: No tienes permisos para modificar las zonas!';
+$_['error_name']             = 'El nombre de la zona debe tener entre 3 y 128 carácteres!';
+$_['error_default']          = 'Cuidado: Esta zona no se puede borrar ya que esta actualmente asignado como el como la zona por defecto de la tienda!';
+$_['error_store']            = 'Cuidado: Esta zona no se puede borrar ya que está actualmente asignado a %s tiendas!';
+$_['error_address']          = 'Cuidado: Esta zona no se puede borrar ya que está actualmente asignado a %s entradas en el libro de direcciones!';
+$_['error_affiliate']        = 'Cuidado: Esta zona no se puede borrar ya que está actualmente asignado a %s afiliados!';
+$_['error_zone_to_geo_zone'] = 'Cuidado: Esta zona no se puede borrar ya que está actualmente asignado a %s zonas geográficas!';
 ?>

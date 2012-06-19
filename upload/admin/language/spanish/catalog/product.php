@@ -40,7 +40,7 @@ $_['entry_shipping']         = 'Requiere envío:';
 $_['entry_date_available']   = 'Fecha de disponibilidad:';
 $_['entry_quantity']         = 'Cantidad:';
 $_['entry_minimum']          = 'Cantidad mínima:<br/><span class="help">Forzar una cantidad mínima en el pedido</span>';
-$_['entry_stock_status']     = 'Fuera de stock::<br/><span class="help">Estado mostrado cuando no hay stock</span>';
+$_['entry_stock_status']     = 'Fuera de stock:<br/><span class="help">Estado mostrado cuando no hay stock</span>';
 $_['entry_price']            = 'Precio:';
 $_['entry_tax_class']        = 'Tipo impuesto:';
 $_['entry_points']           = 'Puntos:<br/><span class="help">Número de puntos necesarios para comprar este producto. Si no deseas que este producto pueda ser comprado con puntos, déjalo en 0.</span>';
