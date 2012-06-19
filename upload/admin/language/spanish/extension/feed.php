@@ -7,7 +7,7 @@ $_['text_install']     = 'Instalar';
 $_['text_uninstall']   = 'Desinstalar';
 
 // Column
-$_['column_name']      = 'Nombre del feed del productos';
+$_['column_name']      = 'Nombre del feed del producto';
 $_['column_status']    = 'Estatus';
 $_['column_action']    = 'Acción';
 
