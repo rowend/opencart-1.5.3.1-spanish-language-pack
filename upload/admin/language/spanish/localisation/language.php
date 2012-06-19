@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']     = 'Language';  
+$_['heading_title']     = 'Idioma';
 
 // Text
-$_['text_success']      = 'Success: You have modified languages!'; 
+$_['text_success']      = 'Éxito: has modificado los idiomas!';
 
 // Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nombre del idioma';
+$_['column_code']       = 'Código';
+$_['column_sort_order'] = 'Orden de aparición';
+$_['column_action']     = 'Acción';
 
 // Entry
-$_['entry_name']        = 'Language Name:';
-$_['entry_code']        = 'Code:<br /><span class="help">eg: en. Do not change if this is your default language.</span>';
-$_['entry_locale']      = 'Locale:<br /><span class="help">eg: en_US.UTF-8,en_US,en-gb,en_gb,english</span>';
-$_['entry_image']       = 'Image:<br /><span class="help">eg: gb.png</span>';
-$_['entry_directory']   = 'Directory:<br /><span class="help">name of the language directory (case-sensitive)</span>';
-$_['entry_filename']    = 'Filename:<br /><span class="help">main language filename without extension</span>';
-$_['entry_status']      = 'Status:<br /><span class="help">Hide/Show it in language dropdown</span>';
-$_['entry_sort_order']  = 'Sort Order:';
+$_['entry_name']        = 'Nombre del idioma:';
+$_['entry_code']        = 'Código:<br /><span class="help">p.ej: es. No lo cambies si es tu idioma actual.</span>';
+$_['entry_locale']      = 'Locale:<br /><span class="help">>p.ej: es_US.UTF-8,es_ES,es-es,es_ES,spanish</span>';
+$_['entry_image']       = 'Imagen:<br /><span class="help">p. ej: es.png</span>';
+$_['entry_directory']   = 'Directorio:<br /><span class="help">nombre del directorio del idioma (sensible a las minúsculas y mayusculas)</span>';
+$_['entry_filename']    = 'Nombre del archivo:<br /><span class="help">nombrel del archivo principal del idioma (sin la extensión)</span>';
+$_['entry_status']      = 'Estatus:<br /><span class="help">Esconder/mostrar en la lista de idiomas</span>';
+$_['entry_sort_order']  = 'Orden de aparición:';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
-$_['error_name']        = 'Language Name must be between 3 and 32 characters!';
-$_['error_code']        = 'Language Code must at least 2 characters!';
-$_['error_locale']      = 'Locale required!';
-$_['error_image']       = 'Image Filename must be between 3 and 64 characters!';
-$_['error_directory']   = 'Directory required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']  = 'Cuidado: No tienes permisos para modificar los idiomas!';
+$_['error_name']        = 'El nombre del idioma debe tener entre 3 y 32 carácteres!';
+$_['error_code']        = 'El código del idioma debe tener al menos 2 carácteres!';
+$_['error_locale']      = 'La locale es obligatoria!';
+$_['error_image']       = 'El nombre del archivo de la imagen debe tener entre 3 y 64 carácteres!';
+$_['error_directory']   = 'El directorio es obligatorio!';
+$_['error_filename']    = 'El nombre del archivo debe tener entre 3 y 64 carácteres!';
+$_['error_default']     = 'Cuidado: Este idioma no se puede borrar ya que esta actualmente asignado como el idioma por defecto de la tienda!';
+$_['error_admin']       = 'Cuidado: Este idioma no puede ser borrado ya que está asignado como el lenguaje del administrador!';
+$_['error_store']       = 'Cuidado: Este idioma no se puede borrar ya que está actualmente asignado a %s tiendas!';
+$_['error_order']       = 'Cuidado: Este idioma no se puede borrar ya que está actualmente asignado a %s pedidos!';
 ?>
