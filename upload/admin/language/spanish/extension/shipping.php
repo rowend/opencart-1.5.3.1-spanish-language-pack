@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']     = 'Shipping';
+$_['heading_title']     = 'Envío';
 
 // Text
-$_['text_install']      = 'Install';
-$_['text_uninstall']    = 'Uninstall';
+$_['text_install']      = 'Instalar';
+$_['text_uninstall']    = 'Desinstalar';
 
 // Column
-$_['column_name']       = 'Shipping Method';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Método de envío';
+$_['column_status']     = 'Estatus';
+$_['column_sort_order'] = 'Orden de aparición';
+$_['column_action']     = 'Acción';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify shipping!';
+$_['error_permission']  = 'Cuidado: No tienes permisos para modificar envíos!';
 ?>
