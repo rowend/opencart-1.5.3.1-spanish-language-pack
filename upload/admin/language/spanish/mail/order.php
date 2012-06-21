@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Actualización pedido %s';
+$_['text_subject']      = '%s - Actualización de pedido %s';
 $_['text_order']        = 'ID del pedido:';
 $_['text_date_added']   = 'Fecha del pedido:';
 $_['text_order_status'] = 'Tu pedido ha sido actualizado al siguiente estado:';
