@@ -22,5 +22,5 @@ $_['entry_sort_order']    = 'Orden de aparición:';
 
 // Error
 $_['error_permission']   = 'Cuidado: No tienes permisos para modificar el módulo Carrusel!';
-$_['error_image']        = 'Las dimensiones ancho &amp; alto son obligatorios!';
+$_['error_image']        = 'Las dimensiones ancho &amp; alto son obligatorias!';
 ?>
