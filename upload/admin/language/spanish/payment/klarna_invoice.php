@@ -20,7 +20,7 @@ $_['entry_status']        = 'Estado:';
 $_['entry_sort_order']    = 'Orden de Aparición:';
 
 // Error
-$_['error_permission']    = 'CuidadoW: No tienes los suficientes permisos para modificar Klarna Invoice!';
+$_['error_permission']    = 'Cuidado: No tienes los suficientes permisos para modificar Klarna Invoice!';
 $_['error_xmlrpc']        = 'La extensión XML-RPC de PHP es requerida!';
 $_['error_merchant']      = 'ID mercante requerido!';
 $_['error_secret']        = 'Secreto requerido!';
