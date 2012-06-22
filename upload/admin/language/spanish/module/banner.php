@@ -3,22 +3,22 @@
 $_['heading_title']       = 'Banner';
 
 // Text
-$_['text_module']         = 'Modules';
-$_['text_success']        = 'Success: You have modified module banner!';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
+$_['text_module']         = 'Módulos';
+$_['text_success']        = 'Éxito: has modificado el módulo de banners!';
+$_['text_content_top']    = 'Contenido superior';
+$_['text_content_bottom'] = 'Contenido inferior';
+$_['text_column_left']    = 'Columna izquierda';
+$_['text_column_right']   = 'Columna derecha';
 
 // Entry
 $_['entry_banner']        = 'Banner:';
-$_['entry_dimension']     = 'Dimension (W x H):';
-$_['entry_layout']        = 'Layout:';
-$_['entry_position']      = 'Position:';
-$_['entry_status']        = 'Status:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_dimension']     = 'Tamaño (Ancho x Alto):';
+$_['entry_layout']        = 'Diseño:';
+$_['entry_position']      = 'Posición:';
+$_['entry_status']        = 'Estado:';
+$_['entry_sort_order']    = 'Orden de aparición:';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify module banner!';
-$_['error_dimension']     = 'Width &amp; Height dimensions required!';
+$_['error_permission']    = 'Cuidado: No tienes permisos para modificar el módulo de banners!';
+$_['error_dimension']     = 'Las dimensiones ancho &amp; alto son obligatorias!';
 ?>
