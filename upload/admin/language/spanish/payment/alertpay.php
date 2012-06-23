@@ -2,22 +2,22 @@
 // Heading
 $_['heading_title']      = 'AlertPay';
 
-// Text 
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified AlertPay account details!';
-      
+// Text
+$_['text_payment']       = 'Pago';
+$_['text_success']       = 'Éxito: Has modificado los detalles de tu cuenta AlertPay!';
+
 // Entry
-$_['entry_merchant']     = 'Merchant ID:';
-$_['entry_security']     = 'Security Code:';
-$_['entry_callback']     = 'Alert URL:<br /><span class="help">This has to be set in the AlertPay control panel. You will also need to check the "IPN Status" to enabled.</span>';
-$_['entry_total']        = 'Total:<br /><span class="help">The checkout total the order must reach before this payment method becomes active.</span>';
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_geo_zone']     = 'Geo Zone:';
-$_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_merchant']     = 'ID de mercante:';
+$_['entry_security']     = 'Código de seguridad:';
+$_['entry_callback']     = 'URL de alerta:<br /><span class="help">Esto tiene que estar configurado en el panel de control de AlertPay. YTambién necesitarás verificar que el "estado de IPN" esté activo.</span>';
+$_['entry_total']        = 'Total:<br /><span class="help">El total de la orden de pago debe llegar antes de que este método de pago se active.</span>';
+$_['entry_order_status'] = 'Estado de pedido:';
+$_['entry_geo_zone']     = 'Zona Geográfica:';
+$_['entry_status']       = 'Estado:';
+$_['entry_sort_order']   = 'Orden de aparición:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment AlertPay!';
-$_['error_merchant']     = 'Merchant ID Required!';
-$_['error_security']     = 'Security Code Required!';
+$_['error_permission']   = 'Cuidado: No tienes permiso para modificar AlertPay!';
+$_['error_merchant']     = 'ID de mercante de obligatorio!';
+$_['error_security']     = 'Código de seguridad obligatorio!';
 ?>
