@@ -2,27 +2,27 @@
 // Heading
 $_['heading_title']      = 'SagePay Direct';
 
-// Text 
-$_['text_payment']       = 'Payment'; 
-$_['text_success']       = 'Success: You have modified SagePay account details!';
+// Text
+$_['text_payment']       = 'Pago';
+$_['text_success']       = 'Éxito: has modificado los detalles de cuenta SagePay!';
 $_['text_sagepay']       = '<a onclick="window.open(\'https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61\');"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_sim']           = 'Simulator';
-$_['text_test']          = 'Test';
-$_['text_live']          = 'Live';
-$_['text_defered']       = 'Defered';
-$_['text_authenticate']  = 'Authenticate';
+$_['text_sim']           = 'Simulador';
+$_['text_test']          = 'Prueba';
+$_['text_live']          = 'En vivo';
+$_['text_defered']       = 'Diferido';
+$_['text_authenticate']  = 'autenticar';
 
 // Entry
-$_['entry_vendor']       = 'Vendor:';
-$_['entry_test']         = 'Test Mode:';
-$_['entry_transaction']  = 'Transaction Method:';
-$_['entry_total']        = 'Total:<br /><span class="help">The checkout total the order must reach before this payment method becomes active.</span>';
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_geo_zone']     = 'Geo Zone:';
-$_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_vendor']       = 'Vendedor:';
+$_['entry_test']         = 'Modo de Prueba:';
+$_['entry_transaction']  = 'Método de transacción:';
+$_['entry_total']        = 'Total:<br /><span class="help">El total de la orden de pago debe llegar antes de que este método de pago sea activado.</span>';
+$_['entry_order_status'] = 'Estado del pedido:';
+$_['entry_geo_zone']     = 'Zona Geográfica:';
+$_['entry_status']       = 'Estado:';
+$_['entry_sort_order']   = 'Orden de aparición:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment SagePay!';
-$_['error_vendor']       = 'Vendor ID Required!';
+$_['error_permission']   = 'Cuidado: No tienes permisos para modificar SagePay!';
+$_['error_vendor']       = 'ID del vendedor obligatorio!';
 ?>
