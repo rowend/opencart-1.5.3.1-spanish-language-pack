@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Coupon Report';
+$_['heading_title']    = 'Reporte de Cupones';
 
 // Column
-$_['column_name']      = 'Coupon Name';
-$_['column_code']      = 'Code';
-$_['column_orders']    = 'Orders';
+$_['column_name']      = 'Nombre del Cupón';
+$_['column_code']      = 'Códig';
+$_['column_orders']    = 'Pedidos';
 $_['column_total']     = 'Total';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acción';
 
 // Entry
-$_['entry_date_start'] = 'Date Start:';
-$_['entry_date_end']   = 'Date End:';
+$_['entry_date_start'] = 'Fecha de Inicio:';
+$_['entry_date_end']   = 'Fecha de Terminación:';
 ?>
