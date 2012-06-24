@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Returns Report';
+$_['heading_title']     = 'Reporte de Devoluciones';
 
 // Text
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_year']         = 'Años';
+$_['text_month']        = 'Meses';
+$_['text_week']         = 'Semanas';
+$_['text_day']          = 'Días';
+$_['text_all_status']   = 'Todos los Estados';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_returns']    = 'No. Returns';
+$_['column_date_start'] = 'Fecha de Inicio';
+$_['column_date_end']   = 'Fecha de Terminación';
+$_['column_returns']    = 'No. de Devoluciones';
 
 // Entry
-$_['entry_date_start']  = 'Date Start:';
-$_['entry_date_end']    = 'Date End:';
-$_['entry_group']       = 'Group By:';
-$_['entry_status']      = 'Return Status:';
+$_['entry_date_start']  = 'Fecha de Inicio:';
+$_['entry_date_end']    = 'Fecha de Terminación:';
+$_['entry_group']       = 'Agrupado Por:';
+$_['entry_status']      = 'Estado de la Devolución:';
 ?>
