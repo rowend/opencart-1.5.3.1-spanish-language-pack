@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Reward Points Report';
+$_['heading_title']         = 'Reporte de Puntos de Recompensa del Cliente';
 
 // Column
-$_['column_customer']       = 'Customer Name';
+$_['column_customer']       = 'Nombre del Cliente';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status';
-$_['column_points']         = 'Reward Points';
-$_['column_orders']         = 'No. Orders';
+$_['column_customer_group'] = 'Grupo de Clientes';
+$_['column_status']         = 'Estado';
+$_['column_points']         = 'Puntos de Recompensa';
+$_['column_orders']         = 'No. de pedidos';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Acción';
 
 // Entry
-$_['entry_date_start']      = 'Date Start:';
-$_['entry_date_end']        = 'Date End:';
+$_['entry_date_start']      = 'Fecha de Inicio:';
+$_['entry_date_end']        = 'Fecha de Terminacións:';
 ?>
