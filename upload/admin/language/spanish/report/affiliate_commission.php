@@ -7,7 +7,7 @@ $_['column_affiliate']  = 'Nombre del Afiliado';
 $_['column_email']      = 'E-Mail';
 $_['column_status']     = 'Estado';
 $_['column_commission'] = 'Comisión';
-$_['column_orders']     = 'No. de PedidosOrders';
+$_['column_orders']     = 'No. de Pedidos';
 $_['column_total']      = 'Total';
 $_['column_action']     = 'Acción';
 
