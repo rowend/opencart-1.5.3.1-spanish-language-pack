@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Low Order Fee';
+$_['heading_title']    = 'Cuota mínima del Pedido';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified low order fee total!';
+$_['text_total']       = 'Totales del pedido';
+$_['text_success']     = 'Éxito: has modificado la cuota total mínima de pedido!';
 
 // Entry
-$_['entry_total']      = 'Order Total:';
-$_['entry_fee']        = 'Fee:';
-$_['entry_tax_class']  = 'Tax Class:';
-$_['entry_status']     = 'Status:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_total']      = 'Total del pedido:';
+$_['entry_fee']        = 'Cuota:';
+$_['entry_tax_class']  = 'Tipo de Impuesto:';
+$_['entry_status']     = 'Estado:';
+$_['entry_sort_order'] = 'Orden de Aparición:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify low order fee total!';
+$_['error_permission'] = 'Cuidado: No tienes permisos para modificar la cuota total mínima de pedido!';
 ?>

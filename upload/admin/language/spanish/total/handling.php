@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Handling Fee';
+$_['heading_title']    = 'Gastos de Gestión';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified handling fee total!';
+$_['text_total']       = 'Totales del pedido';
+$_['text_success']     = 'Éxito: has modificado el total de los gastos de gestión!';
 
 // Entry
-$_['entry_total']      = 'Order Total:';
-$_['entry_fee']        = 'Fee:';
-$_['entry_tax_class']  = 'Tax Class:';
-$_['entry_status']     = 'Status:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_total']      = 'Total del pedido:';
+$_['entry_fee']        = 'Cuota:';
+$_['entry_tax_class']  = 'Tipo de impuesto:';
+$_['entry_status']     = 'Estado:';
+$_['entry_sort_order'] = 'Orden de aparición:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify handling fee total!';
+$_['error_permission'] = 'Cuidado: No tienes permisos para modificar el total de los gastos de gestión!';
 ?>
