@@ -1,22 +1,22 @@
 <?php
 // Text
 $_['text_title']       = 'Klarna Part Payment';
-$_['text_information'] = 'Klarna Information';
-$_['text_additional']  = 'Klarna requires some additional information before they can proccess your order.';
-$_['text_wait']        = 'Please wait!';
-$_['text_male']        = 'Male';
-$_['text_female']      = 'Female';
+$_['text_information'] = 'Información de Klarna';
+$_['text_additional']  = 'Klarna requiere alguna información adiccional antes de que ellos puedan procescar tu pedido.';
+$_['text_wait']        = 'Por favor espere!';
+$_['text_male']        = 'Hombre';
+$_['text_female']      = 'Mujer';
 
 // Entry
-$_['entry_gender']     = 'Gender:';
-$_['entry_dob']        = 'PNO/BIRTH DATA:';
-$_['entry_house_no']   = 'House No.:';
-$_['entry_house_ext']  = 'House Ext.:';
-$_['entry_mobile']     = 'Cell Phone:';
+$_['entry_gender']     = 'Genero:';
+$_['entry_dob']        = 'PNO/Fecha de NACIMIENTO:';
+$_['entry_house_no']   = 'Número de la casa.:';
+$_['entry_house_ext']  = 'Extensión de la Casa.:';
+$_['entry_mobile']     = 'Número Celular:';
 
 // Error
-$_['error_gender']     = 'Gender Required!';
-$_['error_dob']        = 'PNO/BIRTH DATA Required!';
-$_['error_house_no']   = 'House No. Required!';
-$_['error_house_ext']  = 'House Extension Required!';
+$_['error_gender']     = 'Genero Obligatorio!';
+$_['error_dob']        = 'PNO/FECHA DE NACIMIENTO obligatorio!';
+$_['error_house_no']   = 'Número de la Casa Obligatorio!';
+$_['error_house_ext']  = 'Extensión de la Casa Obligatorio!';
 ?>
