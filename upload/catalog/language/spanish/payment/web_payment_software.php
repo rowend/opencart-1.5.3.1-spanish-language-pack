@@ -1,12 +1,12 @@
 <?php
 // Text
-$_['text_title']           = 'Credit Card / Debit Card (Web Payment Software)';
-$_['text_credit_card']     = 'Credit Card Details';
-$_['text_wait']            = 'Please wait!';
+$_['text_title']           = 'Tarjeta Crédito / Tarjeta de Debito (Software de pago vía web)';
+$_['text_credit_card']     = 'Detalles de la Tarjeta de Crédito';
+$_['text_wait']            = 'Por favor espera!';
 
 // Entry
-$_['entry_cc_owner']       = 'Card Owner:';
-$_['entry_cc_number']      = 'Card Number:';
-$_['entry_cc_expire_date'] = 'Card Expiry Date:';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2):';
+$_['entry_cc_owner']       = 'Dueño de la Tarjeta:';
+$_['entry_cc_number']      = 'Número de la Tarjeta:';
+$_['entry_cc_expire_date'] = 'Fecha de expiración de la Tarjeta:';
+$_['entry_cc_cvv2']        = 'Código de seguridad de la tarjeta (CVV2):';
 ?>
