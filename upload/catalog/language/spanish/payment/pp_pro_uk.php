@@ -1,25 +1,25 @@
 <?php
 // Text
-$_['text_title']           = 'Credit or Debit Card (Processed securely by PayPal)';
-$_['text_credit_card']     = 'Credit Card Details';
-$_['text_start_date']      = '(if available)';
-$_['text_issue']           = '(for Maestro and Solo cards only)';
-$_['text_wait']            = 'Please wait!';
+$_['text_title']           = 'Tarjeta de débito o crédito (procesado con seguridad por PayPal)';
+$_['text_credit_card']     = 'Detalles de la tarjeta de crédito ';
+$_['text_start_date']      = '(si está disponible)';
+$_['text_issue']           = '(Solo tarjetas Maestro y solo)';
+$_['text_wait']            = 'Por favor espera!';
 
 // Entry
-$_['entry_cc_owner']       = 'Card Owner:';
-$_['entry_cc_type']        = 'Card Type:';
-$_['entry_cc_number']      = 'Card Number:';
-$_['entry_cc_start_date']  = 'Card Valid From Date:';
-$_['entry_cc_expire_date'] = 'Card Expiry Date:';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2):';
-$_['entry_cc_issue']       = 'Card Issue Number:';
+$_['entry_cc_owner']       = 'Dueño de la tarjeta:';
+$_['entry_cc_type']        = 'Tipo de tarjeta:';;
+$_['entry_cc_number']      = 'Número de la tarjeta:';
+$_['entry_cc_start_date']  = 'Tarjeta válida desde la fecha:';
+$_['entry_cc_expire_date'] = 'Fecha de caducidad de la tarjeta:';
+$_['entry_cc_cvv2']        = 'Código de seguridad de la tarjeta  (CVV2):';
+$_['entry_cc_issue']       = 'Número de emisión de la tarjeta:';
 
 // Error
-$_['error_required']       = 'Warning: All payment information fields are required.';
-$_['error_general']        = 'Warning: A general problem has occurred with the transaction. Please try again.';
-$_['error_config']         = 'Warning: Payment module configuration error. Please verify the login credentials.';
-$_['error_address']        = 'Warning: A match of the Payment Address City, State, and Postal Code failed. Please try again.';
-$_['error_declined']       = 'Warning: This transaction has been declined. Please try again.';
-$_['error_invalid']        = 'Warning: The provided credit card information is invalid. Please try again.';
+$_['error_required']       = 'Error: Todos los campos de pago son obligatorios.';
+$_['error_general']        = 'Error:  Ha ocurrido un problema con la transacción. Por favor inténtalo de nuevo.';
+$_['error_config']         = 'Error: Error de configuración en el módulo de pago. Por favor verifica las credenciales de usuario.';
+$_['error_address']        = 'Error: La validación de la dirección de pago, ciudad, estado, y código postal falló. Por favor inténtalo de nuevo.';
+$_['error_declined']       = 'Error: Esta transacción ha sido denegada. Por favor inténtalo de nuevo.';
+$_['error_invalid']        = 'Error: La información de la tarjeta de crédito proporcionada es inválida. Por favor inténtalo de nuevo.';
 ?>
