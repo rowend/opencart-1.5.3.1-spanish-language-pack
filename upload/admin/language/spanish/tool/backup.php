@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Backup / Restore';
+$_['heading_title']    = 'Copia de seguridad / Restaurar';
 
 // Text
-$_['text_backup']      = 'Download Backup';
-$_['text_success']     = 'Success: You have successfully imported your database!';
+$_['text_backup']      = 'Descargar copia de seguridad';
+$_['text_success']     = 'Éxito: Has importado tu base de datos satisfactoriamente!';
 
 // Entry
-$_['entry_restore']    = 'Restore Backup:';
-$_['entry_backup']     = 'Backup:';
+$_['entry_restore']    = 'Restaurar copia de seguridad:';
+$_['entry_backup']     = 'Copia de seguridad:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify backups!';
-$_['error_empty']      = 'Warning: The file you uploaded was empty!';
+$_['error_permission'] = 'Cuidado: No tienes permisos para modificar copias de seguridad!';
+$_['error_empty']      = 'Cuidado: El archivo que subiste está vacío!';
 ?>
