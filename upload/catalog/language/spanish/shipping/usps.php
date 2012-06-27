@@ -2,5 +2,5 @@
 // Text
 $_['text_title']  = 'Servicio Postal de Estados Unidos';
 $_['text_weight'] = 'Peso:';
-$_['text_eta']    = 'Estimated Time:';
+$_['text_eta']    = 'Tiempo estimado:';
 ?>
