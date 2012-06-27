@@ -1,3 +1,3 @@
 <?php
-$_['text_klarna_fee'] = 'Klarna Fee';
+$_['text_klarna_fee'] = 'Cuota de Klarna';
 ?>
