@@ -22,7 +22,7 @@ This is a Opencart spanish language pack for 1.5.3.1 version and it is **free**!
         Code: es
         Locale: es_ES.UTF-8,es_ES
         Image: es.png
-        Directorio: spanish
+        Folder: spanish
         Filename: spanish
-        Estado: Activo
+        Status: Activo
 
