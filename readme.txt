@@ -4,10 +4,14 @@ opencart-1.5.3.1-spanish-language-pack
 ##Description
 This is a Opencart spanish language pack for 1.5.3.1 version and it is **free**!!!!!!!!!!
 
-##Author
+##Authors
 * name: rowend
 * email: rowend7@gmail.com
 * github: https://github.com/rowend
+
+* name: Daniel Gonzalez
+* email: gonzalezdr@gmail.com
+* https://github.com/DaniGO83
 
 ##Structure
 * upload folder
@@ -33,7 +37,7 @@ This is a Opencart spanish language pack for 1.5.3.1 version and it is **free**!
 
 ##Others
 If you find errors, have some troubles, any feedback or you need help
-please send me an email ro:
+please send me an email:
 
 rowend07@gmail.com
 
