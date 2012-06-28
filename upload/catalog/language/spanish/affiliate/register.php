@@ -43,17 +43,17 @@ $_['entry_password']            = 'Contraseña:';
 $_['entry_confirm']             = 'Confirmar contraseña:';
 
 // Error
-$_['error_exists']              = 'Warning: E-Mail Address is already registered!';
-$_['error_firstname']           = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']            = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']               = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']           = 'Telephone must be between 3 and 32 characters!';
-$_['error_password']            = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']             = 'Password confirmation does not match password!';
-$_['error_address_1']           = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']                = 'City must be between 2 and 128 characters!';
-$_['error_country']             = 'Please select a country!';
-$_['error_zone']                = 'Please select a region / state!';
-$_['error_postcode']            = 'Postcode must be between 2 and 10 characters!';
-$_['error_agree']               = 'Warning: You must agree to the %s!';
+$_['error_exists']              = 'Cuidado: La dirección de e-mail ya está registrada!';
+$_['error_firstname']           = 'El nombre debe tener entre 1 y 32 carácteres!';
+$_['error_lastname']            = 'El apellido/s debe tener entre 1 y 32 carácteres!';
+$_['error_email']               = 'La dirección email no parece ser válida!';
+$_['error_telephone']           = 'El número de teléfono debe tener entre 3 y 32 carácteres!';
+$_['error_password']            = 'La contraseña debe tener entre 4 y 20 carácteres!';
+$_['error_confirm']             = 'La contraseña y la confirmación de contraseña no concuerdan!';
+$_['error_address_1']           = 'La dirección debe tener entre 3 y 128 carácteres!';
+$_['error_city']                = 'El nombre de ciudad debe tener entre 2 y 128 carácteres!';
+$_['error_country']             = 'Por favor selecciona un país!';
+$_['error_zone']                = 'Por favor selecciona una región / estado!';
+$_['error_postcode']            = 'El código postal debe tener entre 2 y 10 carácteres!';
+$_['error_agree']               = 'Cuidado: Debes aceptar las %s!';
 ?>
