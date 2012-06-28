@@ -1,20 +1,20 @@
 <?php
 // Heading 
-$_['heading_title']             = 'Affiliate Program';
+$_['heading_title']             = 'Programa de afiliados';
 
 // Text
-$_['text_account']              = 'Account';
-$_['text_register']             = 'Affiliate Register';
-$_['text_account_already']      = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
-$_['text_signup']               = 'To create an affiliate account, fill in the form below ensuring you complete all the required fields:';
-$_['text_your_details']         = 'Your Personal Details';
-$_['text_your_address']         = 'Your Address Details';
-$_['text_payment']              = 'Payment Information';
-$_['text_your_password']        = 'Your Password';
+$_['text_account']              = 'Cuenta';
+$_['text_register']             = 'Registro de afiliados';
+$_['text_account_already']      = 'Si ya tienes una cuenta con nosotros, por favor inicia sesion en la <a href="%s">página de acceso</a>.';
+$_['text_signup']               = 'Para crear una cuenta de afiliado rellena el siguiente formulario asegurándote de rellenar todos los datos requeridos:';
+$_['text_your_details']         = 'Tus datos personales';
+$_['text_your_address']         = 'Tus datos de dirección';
+$_['text_payment']              = 'Información de pago';
+$_['text_your_password']        = 'Tu contraseña';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
-$_['text_agree']                = 'I have read and agree to the <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_bank']                 = 'Transferencia bancaria';
+$_['text_agree']                = 'He leido y acepto las <a class="thickbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
 $_['entry_firstname']           = 'First Name:';
