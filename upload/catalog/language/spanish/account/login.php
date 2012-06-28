@@ -1,22 +1,22 @@
 <?php
 // Heading 
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Inicio sesión de tu cuenta';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_account']                 = 'Cuenta';
+$_['text_login']                   = 'Inicio de sesión';
+$_['text_new_customer']            = 'Cliente nuevo';
+$_['text_register']                = 'Registrar cuenta';
+$_['text_register_account']        = 'Creando una cuenta podrás comprar más rapidamente, estar al día en los estados de los pedidos, y ver los registros de pedidos anteriores.';
+$_['text_returning_customer']      = 'Cliente frecuente';
+$_['text_i_am_returning_customer'] = 'Ya soy cliente';
+$_['text_forgotten']               = 'Contraseña olvidada';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address:';
-$_['entry_password']               = 'Password:';
+$_['entry_email']                  = 'Dirección e-mail:';
+$_['entry_password']               = 'Contraseña:';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.'; 
+$_['error_login']                  = 'Cuidado:No se encuentra la dirección de e-mail y/o contraseña.';
+$_['error_approved']               = 'Cuidado: Tu cuenta requiere ser aprovada antes de que puedas iniciar sesión.'; 
 ?>

@@ -1,29 +1,29 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Purchase a Gift Certificate';
+$_['heading_title']    = 'Comprar un Certificado de Regalo';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_voucher']     = 'Gift Voucher';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift voucher recipient will be sent an email with details how to redeem their gift voucher.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_account']     = 'Cuenta';
+$_['text_voucher']     = 'Vale de Regalo';
+$_['text_description'] = 'Este certificado de regalo sera enviado  al receptor despues de que usted lo paque.';
+$_['text_agree']       = 'Entiendo quie los certificados d regalo no son non-refundable reembolsables.';
+$_['text_message']     = '<p>Gracias por comprar un certificado de regalo! Una vez que completes tu pedido tu vale de regalo sera enviado en un correo con los detalles de como usar el vale de regalo.</p>';
+$_['text_for']         = '%s Certificado de regalo por %s';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name:';
-$_['entry_to_email']   = 'Recipient\'s Email:';
-$_['entry_from_name']  = 'Your Name:';
-$_['entry_from_email'] = 'Your Email:';
-$_['entry_theme']      = 'Gift Certificate Theme:';
-$_['entry_message']    = 'Message:<br /><span class="help">(Optional)</span>';
-$_['entry_amount']     = 'Amount:<br /><span class="help">(Value must be between %s and %s)</span>';
+$_['entry_to_name']    = 'Nombre del Receptor:';
+$_['entry_to_email']   = 'Email del Receptor:';
+$_['entry_from_name']  = 'Tu nombre:';
+$_['entry_from_email'] = 'Tu Email:';
+$_['entry_theme']      = 'Tema del certificado de regalo:';
+$_['entry_message']    = 'Mensaje:<br /><span class="help">(Opcional)</span>';
+$_['entry_amount']     = 'Cantidad:<br /><span class="help">(el valor debe estar entre %s y %s)</span>';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+$_['error_to_name']    = 'El nombre del receptor debe estar entre 1 y 64 carácteres!';
+$_['error_from_name']  = 'Tu nombre debe estar entre 1 y 64 carácteres!';
+$_['error_email']      = 'El E-Mail no parece ser valido!';
+$_['error_theme']      = 'Debes seleccionar un tema!';
+$_['error_amount']     = 'La Cantidad debe estar entre %s y %s!';
+$_['error_agree']      = 'Cuidado: Tu debes estar de acuerdo que los certificados de regalo no son reembolsables!';
 ?>
