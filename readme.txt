@@ -42,3 +42,8 @@ please send me an email:
 rowend07@gmail.com
 
 Thank you for use this translation n-n
+
+##Found Errors
+1) Notice: Error: Could not load language spanish! in "route....system/library/language.php" on line 39
+1) solution: give permissions to the languages folders
+-------------------------------------------------------------------------------------------------------------
