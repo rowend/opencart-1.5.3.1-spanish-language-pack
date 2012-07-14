@@ -44,6 +44,11 @@ rowend07@gmail.com
 Thank you for use this translation n-n
 
 ##Found Errors
-1) Notice: Error: Could not load language spanish! in "route....system/library/language.php" on line 39
+1) Person: Julio Zabala
+1) Notice Error: Could not load language spanish! in "route....system/library/language.php" on line 39
 1) solution: give permissions to the languages folders
+-------------------------------------------------------------------------------------------------------------
+2) Person: Jaume Bosch
+2) Notice Error: -------
+2) solution: change the old "Locale" line es_ES.UTF-8,es_ES on Install Instructions for  es_ES.UTF-8,es_ES,Spanish
 -------------------------------------------------------------------------------------------------------------
