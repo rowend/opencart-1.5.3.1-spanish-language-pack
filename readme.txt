@@ -29,11 +29,17 @@ This is a Opencart spanish language pack for 1.5.3.1 version and it is **free**!
     3. Create one with the next features
         Language Name: Español
         Code: es
-        Locale: es_ES.UTF-8,es_ES,Spanish 
+        Locale: es_ES.UTF-8,es_ES,Spanish
         Image: es.png
         Directorio: spanish
         Filename: spanish
         Estado: Activo
+
+##Change language Image
+    1. Go to Administrator
+    2. Go to System -> localization ->languages
+    3. Click the 'edit' link for the Language you want to change the image.
+    4. Search the field Image, and put the new image (example: us.png, mx.png)
 
 ##Others
 If you find errors, have some troubles, any feedback or you need help
